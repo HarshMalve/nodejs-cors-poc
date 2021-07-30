@@ -1,0 +1,32 @@
+{
+  "name": "nodejs-cors-poc",
+  "version": "1.0.0",
+  "description": "POC to handle api requests using CORS in NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HarshMalve/nodejs-cors-poc.git"
+  },
+  "keywords": [
+    "NodeJS",
+    "CORS",
+    "NodeJS",
+    "CORS",
+    "nodejs",
+    "cors"
+  ],
+  "author": "Harshavardhan Malve",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HarshMalve/nodejs-cors-poc/issues"
+  },
+  "homepage": "https://github.com/HarshMalve/nodejs-cors-poc#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1"
+  }
+}
